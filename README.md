@@ -1,7 +1,7 @@
 # oneAPI-Pizza-Bot
 
 **Introducing the oneAPI Pizza Bot: Revolutionizing Pizza Ordering  ~ Janesh Kapoor**
-(Couldn't add my own openAI API key, as it was gettin revoked on making it public on github, so add the key in 'api_key' and then run the code)
+(Couldn't add my own openAI API key, as it was getting revoked on making it public on github, so add the key in 'api_key' and then run the code)
 
 In the fast-paced world of technology and artificial intelligence, we often find innovative solutions that make our lives more convenient. One such solution is the "oneAPI Pizza Bot" - an AI-powered chatbot designed to streamline and simplify the process of ordering pizza. This remarkable bot is more than just a clever piece of code; it's a glimpse into the future of automation and customer service.
 
